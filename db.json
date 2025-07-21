@@ -1,0 +1,28 @@
+{
+    "goals": [
+      {
+        "id": "b4e7",
+        "name": "mjomba",
+        "targetAmount": "10000",
+        "savedAmount": 2,
+        "category": "funding",
+        "deadline": "2025-08-20"
+      },
+      {
+        "id": "3079",
+        "name": "wewe",
+        "targetAmount": "200000",
+        "savedAmount": 23,
+        "category": "cars",
+        "deadline": "2025-07-25"
+      },
+      {
+        "id": "332a",
+        "name": "yow",
+        "targetAmount": "20000",
+        "savedAmount": 10000,
+        "category": "mombasa",
+        "deadline": "2025-07-25"
+      }
+    ]
+  }
