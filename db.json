@@ -1,28 +1,52 @@
 {
-    "goals": [
-      {
-        "id": "b4e7",
-        "name": "mjomba",
-        "targetAmount": "10000",
-        "savedAmount": 2,
-        "category": "funding",
-        "deadline": "2025-08-20"
-      },
-      {
-        "id": "3079",
-        "name": "wewe",
-        "targetAmount": "200000",
-        "savedAmount": 23,
-        "category": "cars",
-        "deadline": "2025-07-25"
-      },
-      {
-        "id": "332a",
-        "name": "yow",
-        "targetAmount": "20000",
-        "savedAmount": 10000,
-        "category": "mombasa",
-        "deadline": "2025-07-25"
-      }
-    ]
-  }
+  "goals": [
+    {
+      "id": "b4e7",
+      "name": "mjomba",
+      "targetAmount": "10000",
+      "savedAmount": 2,
+      "category": "funding",
+      "deadline": "2025-08-20"
+    },
+    {
+      "id": "64d2",
+      "name": "abdirahman ",
+      "targetAmount": "200",
+      "savedAmount": 150,
+      "category": "fishing",
+      "deadline": "2025-07-31"
+    },
+    {
+      "id": "2a97",
+      "name": "reading ",
+      "targetAmount": "2",
+      "savedAmount": 0,
+      "category": "library",
+      "deadline": ""
+    },
+    {
+      "id": "40b6",
+      "name": "reading ",
+      "targetAmount": "2",
+      "savedAmount": 0,
+      "category": "library",
+      "deadline": ""
+    },
+    {
+      "id": "4e2e",
+      "name": "reading ",
+      "targetAmount": "2",
+      "savedAmount": 0,
+      "category": "library",
+      "deadline": ""
+    },
+    {
+      "id": "aabc",
+      "name": "sleeping",
+      "targetAmount": "200",
+      "savedAmount": 0,
+      "category": "rest house",
+      "deadline": "2025-07-30"
+    }
+  ]
+}
